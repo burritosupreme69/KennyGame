@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "goose game v2",
-    "path": "goose game v2.yyp",
+    "name": "KennyGame",
+    "path": "KennyGame.yyp",
   },
 }
