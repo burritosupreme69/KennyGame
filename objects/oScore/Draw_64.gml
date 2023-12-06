@@ -1,0 +1,1 @@
+draw_text(40, 20, "Score: " + string(global.pscore));
